@@ -1,0 +1,52 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/Maps/EoP_OpenWorld_HLODLayer_Instanced.uasset",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/Maps/EoP_OpenWorld_HLODLayer_Merged.uasset",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/__ExternalActors__/Maps/EoP_OpenWorld/1/5F/RX8PX0AS58FQFFCFSD7JLL.uasset",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/__ExternalActors__/Maps/EoP_OpenWorld/9/MV/JC6GCF8RDROC5MJA0XL8C1.uasset",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/Maps/EoP_OpenWorld.umap",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/__ExternalActors__/Maps/EoP_OpenWorld/4/XX/18U6WW48KQ0KUX1DZBRJWN.uasset",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/__ExternalActors__/Maps/EoP_OpenWorld/9/73/F5JD2R7OHX8UIOOQK5Y5AZ.uasset",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/__ExternalActors__/Maps/EoP_OpenWorld/1/78/RGYX9RWM2YLVL90YJB1GLD.uasset",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/__ExternalActors__/Maps/EoP_OpenWorld/B/HM/M2U7TP1OURRT8IQ71C9O8S.uasset",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/__ExternalActors__/Maps/EoP_OpenWorld/C/9Q/9NRAQXDR6P4U38B9JQT5GX.uasset",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/__ExternalActors__/Maps/EoP_OpenWorld/A/ZC/1EJJG5WPJELH619QAUX1HX.uasset",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/__ExternalActors__/Maps/EoP_OpenWorld/D/6U/KXK6G9VIXF5C8IZV6W9UPF.uasset",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/__ExternalActors__/Maps/EoP_OpenWorld/2/HT/7Z0RAJF7FXOTIAP3IT1H7J.uasset",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/__ExternalActors__/Maps/EoP_OpenWorld/7/9D/RJCAGXMXJ7XIP4PJQDO556.uasset",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/__ExternalActors__/Maps/EoP_OpenWorld/7/7Z/A76MQJSBGKGJNRT9SZGP04.uasset",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/__ExternalActors__/Maps/EoP_OpenWorld/E/NJ/0A7P35C3WT01ZPWVA1EWQF.uasset",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/__ExternalActors__/Maps/EoP_OpenWorld/6/T8/KA642M93W3878VPL3T7O6D.uasset",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/__ExternalActors__/Maps/EoP_OpenWorld/5/FH/G1MHZYODW3X6FEK8F84HMB.uasset",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/__ExternalActors__/Maps/EoP_OpenWorld/2/L6/TTWHJOQS2LO0GBWCXHZJUW.uasset",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/__ExternalActors__/Maps/EoP_OpenWorld/7/XK/PHDT0YTQC5U9FCINCNAF2Q.uasset",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/__ExternalActors__/Maps/EoP_OpenWorld/9/0K/KB920IRGW6YFYICRUEH1F5.uasset",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/__ExternalActors__/Maps/EoP_OpenWorld/5/P4/9GGM0MHGX31M0ZFB9C9D8J.uasset",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/__ExternalActors__/Maps/EoP_OpenWorld/C/CP/AITK0TKVW47AJ0FEQ4EXPR.uasset",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/__ExternalActors__/Maps/EoP_OpenWorld/2/J9/UGMV336TXGW2Y12M7WNHMK.uasset",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/__ExternalActors__/Maps/EoP_OpenWorld/8/YR/D26V5B7BL5BSFXDR33UE48.uasset",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/__ExternalActors__/Maps/EoP_OpenWorld/3/VW/13PW2B6RK9V89EQEKXX74F.uasset",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/__ExternalActors__/Maps/EoP_OpenWorld/A/VT/QX1ZR23L15M91D4MF5LX5H.uasset",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/__ExternalActors__/Maps/EoP_OpenWorld/4/6J/4JXUBGG2YCP8AG5F7TKP9A.uasset",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/__ExternalObjects__/Maps/EoP_OpenWorld/5/FF/LZHOVYD3IJA10E4BUJE8RA.uasset",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/Maps/Minimal_Default.umap",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/Maps/OpenWorld_HLODLayer_Instanced.uasset",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/Maps/OpenWorld_HLODLayer_Merged.uasset",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/__ExternalActors__/Maps/OpenWorld/C/A4/SYX12GDR1WTMA06YRDZ64I.uasset",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/__ExternalActors__/Maps/OpenWorld/1/8N/2PUNOAXCNP4GZ3KGGHHKQJ.uasset",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/Maps/OpenWorld.umap",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/Maps/Echoes_of_Persepolis_Landscape_HLODLayer_Instanced.uasset",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/Maps/Echoes_of_Persepolis_Landscape_HLODLayer_Merged.uasset",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/__ExternalActors__/Maps/Echoes_of_Persepolis_Landscape/4/CX/WWMVB3UZ4NR72W5PTQE10O.uasset",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/__ExternalActors__/Maps/Echoes_of_Persepolis_Landscape/B/EO/1ZMJRQRL6RKHSNENUMRK5N.uasset",
+				"C:/Projects/Unreal_Engine/Echoes_of_Perespolis/Echoes_of_Persepolis/Content/Maps/Echoes_of_Persepolis_Landscape.umap"
+			]
+		}
+	]
+}
